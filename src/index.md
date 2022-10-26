@@ -7,7 +7,7 @@ title: "benjyang"
 
 My name is Ben Yang and I’m an MS student at Columbia University, researching VR/AR, Computer Graphics, AI, and any interdisciplinary interactions with these fields. I graduated from Rutgers with a B.S. in Computer Science, Mathematics, and Cognitive Science. I'm also interested in skiing, climbing, and fantasy literature!
 
-![Portrait of me, smiling, wearing sunglasses and a gray shirt. There's some scrubland in the midground. The North side of Mount Shasta rises behind me.](/img/profpic-small.jpg)
+![Portrait of me, smiling, wearing sunglasses and a gray shirt. There's some scrubland in the midground. The North side of Mount Shasta rises behind me.](/img/profpic-small.png)
 
 I live for ski mountaineering. I also live for music - I'm a guitarist and singer. I keep monthly
 playlists on
