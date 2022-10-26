@@ -5,10 +5,7 @@ title: "benjyang"
 
 # Hi, I'm Ben.
 
-I'm an engineer primarily interested in programming language design and implementation.
-
-I'm a delegate to [TC39](https://tc39.es), where I'm currently co-championing the
-[pattern matching proposal](https://github.com/tc39/proposal-pattern-matching).
+My name is Ben Yang and I’m an MS student at Columbia University, researching VR/AR, Computer Graphics, AI, and any interdisciplinary interactions with these fields. I graduated from Rutgers with a B.S. in Computer Science, Mathematics, and Cognitive Science. I'm also interested in skiing, climbing, and fantasy literature!
 
 ![Portrait of me, smiling, wearing sunglasses and a gray shirt. There's some scrubland in the midground. The North side of Mount Shasta rises behind me.](/img/profpic-small.jpg)
 
