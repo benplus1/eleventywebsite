@@ -3,17 +3,16 @@ layout: "base"
 title: "benjyang"
 ---
 
-# Hi, I'm Ben.
+# Hi, I'm Ben!
 
-My name is Ben Yang and I’m an MS student at Columbia University, researching VR/AR, Computer Graphics, AI, and any interdisciplinary interactions with these fields. I graduated from Rutgers with a B.S. in Computer Science, Mathematics, and Cognitive Science. I'm also interested in skiing, climbing, and fantasy literature!
+I am currently a MS student in the Department of Computer Science at Columbia University. I am super fortunate to be working under Professor [Steven Feiner](http://www.cs.columbia.edu/~feiner/) and Professor [Junfeng Yang](http://www.cs.columbia.edu/~junfeng/). My research interests are in augmented reality and virtual reality. More specifically, I’m interested in multimodal perception and biometrics in VR/AR, and how ML/AI supports these intersections.
 
-![Portrait of me, smiling, wearing sunglasses and a gray shirt. There's some scrubland in the midground. The North side of Mount Shasta rises behind me.](/img/profpic-small.png)
+Before Columbia, I received a B.S. in Computer Science, Mathematics, and Cognitive Science from Rutgers University.
 
-I live for ski mountaineering. I also live for music - I'm a guitarist and singer. I keep monthly
-playlists on
-[Spotify](https://open.spotify.com/user/e8yylicycxba6487r7jbyotbo?si=wEo1wvS1SsaObFezR8DwJA), if you
-want to check out what I'm listening to.
+![Portrait of me, smiling, on a snowy slope.](/img/profpic-small.png)
 
-You can find my open-source work and personal projects on [GitHub](https://github.com/benplus1).
+I'm also interested in skiing, climbing, volleyball, and fantasy literature!
+
+You can find my open-source work and personal projects on [GitHub](https://github.com/benplus1). My LinkedIn can be found [here](https://www.linkedin.com/in/bentyang/).
 
 If you'd like to chat, I'm reachable via email at `by2297@columbia.edu`!
