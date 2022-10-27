@@ -21,7 +21,7 @@ Piranesi | Susanna Clarke | Fiction
 Neapolitan Novels | Elena Ferrante | Fiction
 Cloud Cuckoo Land | Anthony Doerr | Fiction
 Watership Down | Richard Adams | Fiction
-Journey into the Mind | Sai Gaddam, Ogi Ogas | Non-Fiction
+Journey into the Mind | Sai Gaddam | Non-Fiction
 Fleabag | Phoebe Waller-Bridge | TV Series
 Look Back | Tatsuki Fujimoto | Manga
 WhenTheyCry | Ryukishi07 | Visual Novel
