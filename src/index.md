@@ -16,6 +16,4 @@ want to check out what I'm listening to.
 
 You can find my open-source work and personal projects on [GitHub](https://github.com/benplus1).
 
-If you'd like to chat, I'm reachable via:
-
-- Email: `by2297@columbia.edu`
+If you'd like to chat, I'm reachable via email at `by2297@columbia.edu`!
