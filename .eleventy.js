@@ -4,6 +4,7 @@ const readingTime = require("reading-time");
 module.exports = function (config) {
 	config.addPassthroughCopy("src/fonts");
 	config.addPassthroughCopy("src/img");
+	config.addPassthroughCopy({"src/img/favicon" : "/"});
 
 	config.addFilter("dateFormat", (date) =>
 		new Intl.DateTimeFormat("en-US", {
