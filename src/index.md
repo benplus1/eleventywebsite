@@ -9,7 +9,7 @@ I am currently a MS student in the Department of Computer Science at Columbia Un
 
 Before Columbia, I received a B.S. in Computer Science, Mathematics, and Cognitive Science from Rutgers University.
 
-![Portrait of me, smiling, on a snowy slope.](/img/profpic-small.png)
+![Portrait of me, smiling, on a snowy slope.](/img/profpic-crop.jpeg)
 
 I'm also interested in skiing, climbing, volleyball, and fantasy literature!
 
