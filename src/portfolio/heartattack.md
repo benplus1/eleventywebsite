@@ -1,7 +1,7 @@
 ---
 title: "Heart Attack"
 date: 2022-04-22
-thumbnail: "/img/antarctica.jpg"
+thumbnail: "/img/heartattack.jpg"
 eleventyExcludeFromCollections: false
 ---
 
