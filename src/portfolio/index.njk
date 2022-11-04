@@ -14,6 +14,7 @@ title: "Portfolio"
           {{ post.data.title }}
         </div>
         <div class="date">{{ post.data.date | dateFormat }}</div>
+        <img src={{post.data.thumbnail}} class="img"></img>
         <div class="description">{{ post.templateContent | description }}</div>
         <div class="minutes">{{ post.templateContent | readingTime }} minute read</div>
       </div>
