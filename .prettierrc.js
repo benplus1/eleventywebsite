@@ -1,4 +1,4 @@
-module.exports = {
+export default {
 	printWidth: 100,
 	useTabs: true,
 	semi: true,
@@ -7,4 +7,5 @@ module.exports = {
 	bracketSameLine: true,
 	arrowParens: "always",
 	proseWrap: "always",
+	plugins: ["@shopify/prettier-plugin-liquid"],
 };
