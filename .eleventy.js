@@ -1,10 +1,10 @@
-const description = require("eleventy-plugin-description");
-const readingTime = require("reading-time");
+import path from "node:path";
+import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
+import description from "eleventy-plugin-description";
 
-module.exports = function (config) {
-	config.addPassthroughCopy("src/fonts");
-	config.addPassthroughCopy("src/img");
-	config.addPassthroughCopy({"src/img/favicon" : "/"});
+export default function (config) {
+	config.addPassthroughCopy("src/_redirects");
+	config.addPassthroughCopy("src/static");
 
 	config.addFilter("dateFormat", (date) =>
 		new Intl.DateTimeFormat("en-US", {
@@ -15,16 +15,35 @@ module.exports = function (config) {
 		}).format(date),
 	);
 
-	config.addPlugin(description);
+	config.addPlugin(description, {
+		htmlToTextOptions: {
+			selectors: ["h1", "h2", "h3", "h4", "h5", "h6"].map((selector) => ({
+				selector,
+				format: "skip",
+			})),
+		},
+	});
 
-	config.addFilter("readingTime", (templateContent) =>
-		Math.ceil(readingTime(templateContent).minutes),
-	);
+	config.addPlugin(eleventyImageTransformPlugin, {
+		extensions: "html",
+		formats: ["avif"],
+		widths: ["auto"],
+		defaultAttributes: {
+			loading: "lazy",
+			decoding: "async",
+		},
+		filenameFormat: function (_id, src, _width, format, _options) {
+			return `${path.parse(src).name}.${format}`;
+		},
+	});
 
 	return {
 		dir: {
 			input: "src",
 			output: "build",
+
+			includes: "_includes",
+			layouts: "_layouts",
 		},
 	};
-};
+}
