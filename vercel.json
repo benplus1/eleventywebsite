@@ -1,8 +1,8 @@
 {
 	"redirects": [
 		{
-			"source": "/ski-video",
-			"destination": "https://www.youtube.com/watch?v=bRhmYDXIHDE",
+			"source": "/cv",
+			"destination": "https://drive.google.com/drive/folders/1LPAuhP8kU7K1cYzjbiOVa6YlbQl57-En?usp=sharing",
 			"permanent": true
 		}
 	]
